@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.metalcl.reunionesindama"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8cf8b4ea-6111-4b20-982e-9f7d79a6bfa5"
+      }
+    },
+    "scheme": "reunionesindama"
   }
 }
